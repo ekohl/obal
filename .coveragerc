@@ -1,0 +1,8 @@
+[paths]
+source = .
+  .tox/*/lib/*/site-packages/
+
+[run]
+branch = True
+source = .
+parallel = true
